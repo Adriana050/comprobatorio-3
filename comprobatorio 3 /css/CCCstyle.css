@@ -1,0 +1,75 @@
+
+@font-face {
+    font-family:"Montserrat-Regular"; 
+    src: url(../fonts/montserrat/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family:"paloseco"; 
+    src: url(../fonts/paloseco/Paloseco-Light.ttf);
+}
+
+
+
+body{
+
+    background-size: cover;
+    background-image: url(../img/fondiuu.png);
+    background-repeat: no-repeat;
+}
+
+.row{
+margin-top: 80px;
+font-family: paloseco;
+
+}
+
+.responsive-img{
+    margin-top: -26px;
+}
+
+.border-white{
+    border: 1px solid white;
+
+}
+.btn-round{
+    border-radius: 50px;
+}
+
+
+.btn-distance{
+   margin-top: 10px;
+}
+
+.kiwi{
+    background-color: rgb(255, 255, 255);
+    width: 220px;
+    height: 300px;
+    border-radius: 20px;
+
+}
+
+.adore{
+    margin-top: 20px;
+    font-size: 14px;
+    
+    }
+    .gamakichi{
+        margin-top: 30px;
+     margin-left: 200px;
+        
+        }
+        .card-image{
+            width: 180px;
+margin-left: 50px;
+
+            
+            }
+            .card{
+                margin-top: 30px;
+
+            }
+
+            .willi{
+                margin-top: -10px;
+
+            }
